@@ -5,7 +5,7 @@
 # ⚡️快速上手：
 * 1.克隆或下载此存储库，推荐使用以下命令：
    ```
-   git clone https://github.com/OpenBMB/ChatDev.git
+   git clone https://github.com/MrBZBZ/Slider-captcha-recognition-tool.git
    ```
 * 2.设置 Python 环境：确保您具有版本 3.9 或更高版本的 Python 环境。
 * 3.在PyCharm打开刚刚下载的存储库
